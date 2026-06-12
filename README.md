@@ -4,6 +4,10 @@ A modern JavaScript implementation of a configurable tiles puzzle game (8-, 15-,
 or 24-puzzle) with dynamic image-based tilemap support. Select an image and
 solve the puzzle by rearranging tiles to reconstruct the original image.
 
+## Play Online
+
+- [Start game now...](https://omerkel.github.io/tiles_puzzle/javascript/html5/src/)
+
 ## Key Features
 
 ✨ **Dynamic Image Selection**: Load JPEG, PNG, WebP, or GIF images (up to 12
